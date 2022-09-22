@@ -1,7 +1,7 @@
 🚀 Sobre mim
 Eu sou uma pessoa desenvolvedora full-stack...
 
-🧠 Estou aprendendo banco de dados
+🧠 Estou avançando meu aprendizado pro Back-End! 
 
 <div align="center">
   <a href="https://github.com/igorMHJKS">
