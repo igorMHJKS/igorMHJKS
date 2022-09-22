@@ -1,7 +1,9 @@
-🚀 Sobre mim
-Eu sou uma pessoa desenvolvedora full-stack...
+🚀 About me
 
-🧠 Estou avançando meu aprendizado pro Back-End! 
+I'm a full-stack developer person...
+
+🧠 I'm advancing my learning to the Back-End!
+
 
 <div align="center">
   <a href="https://github.com/igorMHJKS">
